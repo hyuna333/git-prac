@@ -14,3 +14,14 @@ rm(remove) 파일삭제
 -rf 강제로 지움  
 code . vscode 열기  
 "" 한묶음으로 만들어줌
+
+# git basic
+repository : 특정 디렉토리를 버전 관리하는 저장소  
+git init 명령어로 로컬 저장소를 생성  
+git init 깃 레포 만들기  
+git add {파일이름}  staging area에 추가  
+git commit -m {message}  커밋 남기기  
+git status  상태확인  
+git add .  하나하나 add 하기 귀찮으니까 .으로 그 위치에 있는 애들 다 add  
+git log --oneline  로그를 한줄로 볼때  
+git remote add origin  원격연결  
