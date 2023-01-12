@@ -1,5 +1,5 @@
 # 깃 연습
-- git
+- [git](git.md)
 - markdown
 - 용어
 
