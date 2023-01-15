@@ -25,3 +25,10 @@ git status  상태확인
 git add .  하나하나 add 하기 귀찮으니까 .으로 그 위치에 있는 애들 다 add  
 git log --oneline  로그를 한줄로 볼때  
 git remote add origin  원격연결  
+
+# 230113
+shift + insert 붙여넣기  
+git clone [url] 클론 만들기  
+ctrl + c 취소  
+git commit --amend 커밋메세지 수정  
+
